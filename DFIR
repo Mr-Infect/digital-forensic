@@ -1,0 +1,462 @@
+DIGITAL FORENSIC SOFTWARES AND HARDWARE
+--------------------------------------
+
+    EnCase Forensic (Used by law enforcement)
+
+    FTK (Forensic Toolkit) (Used by law enforcement)
+
+    Autopsy (Open-source, used by law enforcement)
+
+    X-Ways Forensics
+
+    Cellebrite UFED (Used by law enforcement for mobile forensics)
+
+    Magnet AXIOM (Used by law enforcement)
+
+    Belkasoft Evidence Center
+
+    Volatility (Memory forensics)
+
+    Sleuth Kit (Open-source)
+
+    OSForensics
+
+    BlackLight (Used by law enforcement)
+
+    Nuix (Used by law enforcement)
+
+    Digital Detective (DVR Examiner)
+
+    Paraben E3
+
+    Griffeye Analyze DI
+
+    Elcomsoft Forensic Disk Decryptor
+
+    Elcomsoft Phone Breaker (Used by law enforcement)
+
+    UFED Cloud Analyzer (Used by law enforcement)
+
+    IEF (Internet Evidence Finder)
+
+    Wireshark (Network forensics)
+
+    Bulk Extractor
+
+    Registry Recon (Windows registry analysis)
+
+    F-Response (Remote forensics)
+
+    Paladin (Linux-based forensic suite)
+
+    CAINE (Computer Aided Investigative Environment)
+
+    SANS SIFT (Forensic toolkit)
+
+    WinHex (Hex editor and forensic tool)
+
+    HxD (Hex editor)
+
+    Forensic Explorer (FEX)
+
+    MacQuisition (Mac forensics)
+
+    BlackBag Technologies (Mac and iOS forensics)
+
+    Elcomsoft iOS Forensic Toolkit
+
+    Oxygen Forensic Detective (Used by law enforcement)
+
+    MSAB XRY (Used by law enforcement)
+
+    Passware Kit Forensic (Password recovery)
+
+    DB Browser for SQLite (Database analysis)
+
+    PhotoRec (Data recovery)
+
+    Recuva (Data recovery)
+
+    R-Studio (Data recovery)
+
+    Disk Drill (Data recovery)
+
+    EaseUS Data Recovery Wizard
+
+    Stellar Data Recovery
+
+    TestDisk (Partition recovery)
+
+    PhotoRec (File recovery)
+
+    Scalpel (File carving)
+
+    Foremost (File carving)
+
+    Guymager (Disk imaging)
+
+    dc3dd (Forensic imaging)
+
+    FTK Imager (Disk imaging)
+
+    ProDiscover Forensic
+
+
+    Tableau Forensic Imager
+
+    WiebeTech Forensic DriveDock
+
+    Logicube Falcon-Neo
+
+    Logicube Talon
+
+    CRU Ditto Forensic Imager
+
+    Digital Intelligence UltraBlock
+
+    Tableau T35u Forensic Bridge
+
+    WiebeTech Forensic ComboDock
+
+    DeepSpar Disk Imager
+
+    Guidance Software FastBloc
+
+WRITE BLOCKERS
+
+    Tableau T8-R2 Forensic Bridge
+
+    WiebeTech Forensic UltraDock v5
+
+    Digital Intelligence FireFly
+
+    Tableau T356789iu Forensic Bridge
+
+    CRU WriteBlocker
+
+Mobile Device Forensics
+
+    Cellebrite UFED Touch 2
+
+    Cellebrite UFED 4PC
+
+    MSAB XRY Portable
+
+    Oxygen Forensic Kit
+
+    Magnet IEF Acquisition Tool
+
+DATA RECOVERY HARDWARE
+
+    DeepSpar 3D Data Recovery System
+
+    PC-3000 Portable III
+
+    Atola Insight Forensic
+
+    DeepSpar Disk Imager 4
+
+    HDD SuperClone
+
+FORENSIC WORKSTATIONS
+
+    Digital Intelligence FRED (Forensic Recovery of Evidence Device)
+
+    FREDLite
+
+    FREDDIE
+
+    CRU Dataport
+
+    Digital Intelligence UltraKit
+
+NETWORK FORENSIC TOOLS
+
+    PacketSled Network Forensic Appliance
+
+    EndaceProbe Network Recorder
+
+    Rugged Network TAPs
+
+    Gigamon ThreatINSIGHT
+
+    NetWitness Platform
+
+CHIP-OFF and JTAG TOOLS
+
+    RIFF Box JTAG
+
+    UFED Chip-Off Kit
+
+    PC-3000 Flash
+
+    Medusa Pro Box
+
+    Xeltek SuperPro 6100
+
+FORENSIC HARDWARE TOOLS
+
+    Kali NetHunter Forensic Kit
+
+    HTCI HotPlug
+
+    Voom Hard Copy 3
+
+    BitLocker Reader
+
+    USB WriteBlocker
+
+DATA WIPING AND SANITATION
+
+    Blancco Drive Eraser
+
+    WiebeTech Drive eRazer Ultra
+
+    Digital Shredder
+
+    KillDisk
+
+    DiskJet PRO
+
+    EnCase Forensic
+
+    FTK (Forensic Toolkit)
+
+    Cellebrite UFED
+
+    Magnet AXIOM
+
+    Autopsy
+
+    BlackLight
+
+    Nuix
+
+    Oxygen Forensic Detective
+
+    MSAB XRY
+
+    Elcomsoft Phone Breaker
+-----------------------------------------------------------------------------------------
+
+    Cellebrite UFED (Universal Forensic Extraction Device)
+
+        Supports Android and iOS devices for physical, logical, and cloud extraction.
+
+    Magnet AXIOM
+
+        Extracts data from Android and iOS devices, including apps, messages, and cloud data.
+
+    Oxygen Forensic Detective
+
+        Advanced tool for extracting and analyzing data from mobile devices.
+
+    MSAB XRY
+
+        Used by law enforcement for mobile device forensics.
+
+    Elcomsoft iOS Forensic Toolkit
+
+        Specialized for iOS device extraction and decryption.
+
+    Elcomsoft Phone Breaker
+
+        Extracts data from Android and iOS devices, including cloud backups.
+
+    Belkasoft Evidence Center
+
+        Supports mobile device extraction and analysis.
+
+    Paraben E3:DS
+
+        Mobile forensic tool for Android and iOS devices.
+
+    GrayKey
+
+        Used by law enforcement to unlock and extract data from iOS devices.
+
+    iMazing
+
+        Extracts data from iOS devices, including backups and app data.
+
+-----------------------------------------------------------------------------------------
+
+IOS SPECIFIC FORENSIC TOOLS
+
+    iTunes Backup Analyzer
+
+        Extracts and analyzes iTunes backups.
+
+    iExplorer
+
+        Extracts data from iOS devices, including messages, contacts, and app data.
+
+    iPhone Backup Extractor
+
+        Recovers data from iOS backups.
+
+    3uTools
+
+        Extracts and manages data from iOS devices.
+
+    Dr.Fone - iOS Toolkit
+
+        Recovers data from iOS devices and backups.
+
+    iMobie PhoneRescue
+
+        Recovers lost data from iOS devices.
+
+    FoneLab
+
+        Extracts and recovers data from iOS devices.
+
+    iMyFone D-Back
+
+        Recovers data from iOS devices and backups.
+
+    Tenorshare UltData
+
+        Recovers data from iOS devices and backups.
+
+    MacQuisition
+
+        Extracts data from iOS devices connected to Mac systems.
+
+--------------------------------------------------------------------------------
+
+ANDROID SPECIFIC FORENSIC TOOLS
+
+    Andriller
+
+        Extracts and analyzes data from Android devices.
+
+    MOBILedit Forensic Express
+
+        Extracts data from Android devices, including deleted data.
+
+    Dr.Fone - Android Toolkit
+
+        Recovers data from Android devices.
+
+    FonePaw Android Data Recovery
+
+        Recovers lost data from Android devices.
+
+    iMyFone D-Back (Android)
+
+        Recovers data from Android devices and backups.
+
+    Tenorshare UltData (Android)
+
+        Recovers data from Android devices.
+
+    DroidKit
+
+        Extracts and recovers data from Android devices.
+
+    Wondershare Dr.Fone
+
+        Recovers data from Android devices.
+
+    FoneLab for Android
+
+        Recovers lost data from Android devices.
+
+    iSkySoft Toolbox (Android)
+
+        Extracts and recovers data from Android devices.
+
+-------------------------------------------------------------------------------
+
+CLOUD EXTRACTION TOOLS
+
+    Cellebrite UFED Cloud Analyzer
+
+        Extracts data from cloud services like iCloud, Google Drive, and WhatsApp.
+
+    Elcomsoft Cloud Explorer
+
+        Extracts data from iCloud, Google Drive, and other cloud services.
+
+    Magnet AXIOM Cloud
+
+        Extracts and analyzes cloud data from Android and iOS devices.
+
+    Oxygen Forensic Cloud Extractor
+
+        Extracts data from cloud services linked to mobile devices.
+
+    iMazing Cloud Companion
+
+        Extracts data from iCloud backups.
+
+--------------------------------------------------------------------------------
+
+APP-SPECIFIC FORENSIC TOOLS
+
+    WhatsApp Viewer
+
+        Extracts and analyzes WhatsApp data from Android and iOS devices.
+
+    WhatsApp Xtract
+
+        Extracts WhatsApp messages and media.
+
+    SQLite Browser
+
+        Analyzes SQLite databases (used by many apps on Android and iOS).
+
+    DB Browser for SQLite
+
+        Extracts and analyzes app data stored in SQLite databases.
+
+    iMobie AnyTrans
+
+        Extracts app data from iOS devices.
+
+---------------------------------------------------------------------------------------------------------
+
+DATA RECOVERY TOOLS 
+
+    DiskDigger
+
+        Recovers deleted files from Android devices.
+
+    EaseUS MobiSaver
+
+        Recovers data from Android and iOS devices.
+
+    FonePaw Android Data Recovery
+
+        Recovers lost data from Android devices.
+
+    iMyFone D-Back
+
+        Recovers data from iOS and Android devices.
+
+    Tenorshare UltData
+
+        Recovers data from iOS and Android devices.
+
+Open-Source and Free Tools
+
+    Autopsy
+
+        Open-source forensic tool with mobile device support.
+
+    Sleuth Kit
+
+        Open-source forensic tool for analyzing mobile data.
+
+    Santoku Linux
+
+        A Linux distribution for mobile forensics.
+
+    ADB (Android Debug Bridge)
+
+        Command-line tool for extracting data from Android devices.
+
+    libimobiledevice
+
+        Open source ios communication
