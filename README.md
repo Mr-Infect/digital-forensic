@@ -44,4 +44,4 @@ These notes are intended to serve as a quick reference guide and are organized b
 To use this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/your-username/dfir-tools-and-notes.git
+git clone https://github.com/Mr-Infect/digital-forensic.git
